@@ -39,7 +39,7 @@ Donc vous allez tout lancer en local
 
 ### Méthode manuelle :
 
-- Vous téléchargez le .zip ([Releases](https://github.com/EDM115/minecraft-info-gang-gang/releases/latest))
+- Vous téléchargez le .rar ([Releases](https://github.com/EDM115/minecraft-info-gang-gang/releases/latest))
 - Vous créez vous-mêmes une nouvelle instance en fonction de la version
 - Et vous extrayez le zip dans le dossier de votre instance (remplacez tout)
 

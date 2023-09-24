@@ -33,13 +33,13 @@ Donc vous allez tout lancer en local
 ### Méthode simple :
 
 - Installez l'app Modrinth https://modrinth.com/app
-- Ajoutez le .mrpack ([Releases](https://github.com/EDM115/IUT-mc-modpack/releases/latest)) : Bouton + en bas à gauche, From file
+- Ajoutez le .mrpack ([Releases](https://github.com/EDM115/minecraft-info-gang-gang/releases/latest)) : Bouton + en bas à gauche, From file
 - Attendez la fin du téléchargement
 - Enjoy
 
 ### Méthode manuelle :
 
-- Vous téléchargez le .zip ([Releases](https://github.com/EDM115/IUT-mc-modpack/releases/latest))
+- Vous téléchargez le .zip ([Releases](https://github.com/EDM115/minecraft-info-gang-gang/releases/latest))
 - Vous créez vous-mêmes une nouvelle instance en fonction de la version
 - Et vous extrayez le zip dans le dossier de votre instance (remplacez tout)
 
